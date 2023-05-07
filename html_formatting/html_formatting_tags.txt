@@ -1,0 +1,12 @@
+<strong> or <b> - Bold text
+<em> or <i> - Italicize text
+<u> - Underline text
+<strike> or <s> - Strikethrough text
+<mark> - Marked text
+<sup> - Superscript text
+<sub> - Subscript text
+<ins> - Inserted text
+<del> - Deleted text
+<blockquote> - Defines a block of quoted text
+<code> - Defines a block of code
+<pre> - Defines preformatted text
